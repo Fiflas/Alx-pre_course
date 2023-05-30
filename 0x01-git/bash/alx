@@ -1,0 +1,11 @@
+#!/bin/bash
+echoi "ALX"
+
+^
+^C
+CLEAR
+
+echo "ALX"
+^C
+^c
+:q
